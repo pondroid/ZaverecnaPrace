@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[link](secon.md)
+[link](secon.md) Jede? Nejede?
 
 You can use the [editor on GitHub](https://github.com/pondroid/web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
