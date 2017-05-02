@@ -2,7 +2,7 @@
 
 #### Ondřej Pantlík
 
-#####Závěrečná práce
+##### Závěrečná práce
 
 ___
 
@@ -11,6 +11,8 @@ Obor: *PdF DAPFY DAP Fyzika pro základní školy*
 Forma: *Rozšiřující vzdělávání*
 Katedra fyziky, chemie a odborného vzdělávání
 Pedagogická fakulta Masarykovy univerzity
+
 ___
+
 * [Poznámky](poznamky.md)
 * [Osnova](osnova.md)
