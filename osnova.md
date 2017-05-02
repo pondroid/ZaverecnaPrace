@@ -15,7 +15,7 @@ Byl bych rád, kdyby moje práce mohla být zaměřena na zapojení ICT do fyzik
       * Vytvořené materiály z různých oblastí
    2. Další software (dopíšu časem který)
    3. Odkazovník na další vhodné materiály, software, applety apod
-3.  Část 3: Ukázky a hodnocení využití ICT z realizovaných hodin
+3. Část 3: Ukázky a hodnocení využití ICT z realizovaných hodin
    1. Přípravy na hodinu s využitím ICT (3x z různých oblastí?)
    2. ~~Vyhodnocení práce v hodině (včetně fotografií)~~
 
