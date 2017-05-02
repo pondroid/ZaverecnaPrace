@@ -1,38 +1,16 @@
-## Zde bych rád viděl moji závěrečnou práci
-[link](secon.md) Jede? Nejede?
-### Zase to zkouším.
-You can use the [editor on GitHub](https://github.com/pondroid/web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Vizualizace fyzikálních jevů ve výuce na ZŠ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Ondřej Pantlík
 
-### Markdown
+#####Závěrečná práce
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+___
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pondroid/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pa ges? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Studijní program: *PdF C-CV Celoživotní vzdělávání, celoživotní vzdělávání*
+Obor: *PdF DAPFY DAP Fyzika pro základní školy*
+Forma: *Rozšiřující vzdělávání*
+Katedra fyziky, chemie a odborného vzdělávání
+Pedagogická fakulta Masarykovy univerzity
+___
+* [Poznámky](poznamky.md)
+* [Osnova](osnova.md)
