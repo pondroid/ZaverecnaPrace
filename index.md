@@ -2,7 +2,7 @@
 
 #### Ondřej Pantlík
 
-##### [Závěrečná práce](https://pondroid.gitbooks.io/vizualizace-fyzikalnich-jevu-ve-vyuce-na-zs/)
+##### [Závěrečná práce]
 
 ___
 
