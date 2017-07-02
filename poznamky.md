@@ -4,3 +4,6 @@ v části Algodoo
 3. Ukázka tvorby jedné scény
 4. možnosti prezentace - časová osa apod.
 5. Zdroje na internetu předpřipravené scény apod.
+
+
+* v teoretické části u Algodoo nezapomenout uvést kromě mšlenkových pokusů také , že se dá algodoo použít na modelování situací - kruhy o různých rychlostech + srážky - teplota plynu apod.
