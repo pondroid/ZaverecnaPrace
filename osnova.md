@@ -25,7 +25,7 @@ Autor předpokládá, že v budoucnu bude materiály v aplikační části a zvl
    3. Tvorba jednoduché scény
    4. Tvorba komplexní  scény
 3. Aplikační část
-  * cca 3 přípravy na hoidnu s využitám alogodoo
+  * cca 3 přípravy na hodinu s využitím Alogodoo
 4. Přílohy
   * Scény
   * Slovník Aj-Čj
