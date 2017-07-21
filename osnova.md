@@ -1,8 +1,7 @@
 ## Osnova
-* nutné upravit
-### O co mi jde:
-T
-ato práce má za cíl vytvořit webové stránky jako podporu pro výuku fyziky pomocí vizualizace fyzikálních jevů, zvláště pak pomocí programu Algodoo.
+
+### Abstrakt
+Tato práce má za cíl vytvořit webové stránky jako podporu pro výuku fyziky pomocí vizualizace fyzikálních jevů, zvláště pak pomocí programu Algodoo.
 Skládá se z teoretické části, v které je rozebírána názornost a okusy ve fyzice a přínot ICT výuce fyziky.
 
 V praktické části se čtenář naučí program Algodoo používat, seznámí s prostředím a na dvou tzv. scénách se naučí způsobu práce s programem Algodoo.
