@@ -1,23 +1,37 @@
 ## Osnova
 * nutné upravit
 ### O co mi jde:
-Byl bych rád, kdyby moje práce mohla být zaměřena na zapojení ICT do fyziky. Nechci se zaměřovat například na výpočty ve fyzice na ZŠ (Excel) nebo tvorbu prezentací, ale na vizualizaci fyzikálních jevů, na pomoc s jejich názorným vysvětlením žákům na ZŠ. Existuje několik aplikací,  například Algodoo, v linuxu STEP, které mohou být velmi názornými pomocníky učitele při vysvětlování nové látky (Algodoo může být velmi dobrým program pro samostatnou, skupinovou, možná i laboratorní práci žáků). Zde se hlavně jednalo o oblast mechaniky, popřípadě hydrostatiky, apod. V oblasti elektřiny a magnetismu lze najít například java applety vhodné pro znázornění pohybu elektronů ve vodičích při průchodu elektrického proudu těmito vodiči (PhET).
+T
+ato práce má za cíl vytvořit webové stránky jako podporu pro výuku fyziky pomocí vizualizace fyzikálních jevů, zvláště pak pomocí programu Algodoo.
+Skládá se z teoretické části, v které je rozebírána názornost a okusy ve fyzice a přínot ICT výuce fyziky.
+
+V praktické části se čtenář naučí program Algodoo používat, seznámí s prostředím a na dvou tzv. scénách se naučí způsobu práce s programem Algodoo.
+V následující aplikační části jsou rozebrány tři vyučovací hodiny fyziky a zapojení konkrétních scén do těchto hodin (včetně scén samotných).
+V přílohách čtenář nalezne jisté množství předpřipravených scén a jednoduchý popis zapojení do výuky, slovník anglicko-českých termínů.
+
+Součástí práce je i dokument ve formátu pdf, který slouží jako samotná závěrečná práce studijního oboru DAP Fyzika pro základní školy studijního programu Celoživotní vzdělávání Pedagogické fakulty Masarykovy univerzity v Brně.
+
+Autor předpokládá, že v budoucnu bude materiály v aplikační části a zvláště v přílohách doplňovat i po ukončení studia.
 
 ### Synopse:
 1. Část 1: Teorie
-   1. ICT v přípravě na výuku
-   2. ICT jako pomocník učitele při realizaci hodiny
-   3. ICT v rukou žáka v hodinách fyziky
-2. Část 2: Příklady použití ICT
-   1. Algodoo
-      * Vhodnost nasazení
-      * Návod na použití
-      * Vytvořené materiály z různých oblastí
-   2. Další software (dopíšu časem který)
-   3. Odkazovník na další vhodné materiály, software, applety apod
-3. Část 3: Ukázky a hodnocení využití ICT z realizovaných hodin
-   1. Přípravy na hodinu s využitím ICT (3x z různých oblastí?)
-   2. ~~Vyhodnocení práce v hodině (včetně fotografií)~~
+   1. Pokus a názornost ve ve yzice
+   2. ICT v hodině fyziky
+   3. Demonstrační aplikace ve fyzice
+    * Jiné aplikce
+    * Algodoo
+2. Část 2: Praktická část
+   1. Seznámení s prostředím Algodoo
+   2. Základní operace
+   3. Tvorba jednoduché scény
+   4. Tvorba komplexní  scény
+3. Aplikační část
+  * cca 3 přípravy na hoidnu s využitám alogodoo
+4. Přílohy
+  * Scény
+  * Slovník Aj-Čj
+  * Odkazy
+  * Literatura
 
 ___
 [INDEX](index.md) 
